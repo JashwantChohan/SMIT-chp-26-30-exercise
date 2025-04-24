@@ -52,5 +52,18 @@
 // method of JS Math class. Display the value of coin in your
 // browser
 
-let no = Math.floor(Math.random()* 6) + 1  
-document.write(`Random dice Value: ${no}`)
+// let no = Math.floor(Math.random() * 3)  
+// let coin;
+// if (no === 1){
+//    coin = "head"
+// }else{
+//     coin = "tail"
+// }
+// document.write(`Random dice Value: ${coin}`)
+
+
+// 6. Write a program that shows a random number between 1
+// and 100 in your browser
+
+// let value = Math.floor(Math.random() * 100)
+// document.write(`Random value from 1 to 100: ${value}`)
