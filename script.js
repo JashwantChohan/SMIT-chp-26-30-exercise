@@ -66,4 +66,22 @@
 // and 100 in your browser
 
 // let value = Math.floor(Math.random() * 100)
-// document.write(`Random value from 1 to 100: ${value}`)
+// document.write(`Random number between 1 to 100: ${value}`)
+
+// 7. Write a program that asks the user about his weight. Parse
+// the user input and display his weight in your browser.
+// Possible user inputs can be:
+// a. 50
+// b. 50kgs
+// c. 50.2kgs
+// d. 50.2kilograms
+
+
+// let userInput = prompt("Enter your weight ");
+// let weight = parseFloat(userInput);
+
+// if (!isNaN(weight)) {
+//     alert("Your weight is " + weight + " kilograms.");
+// } else {
+//     alert("Invalid input. Please enter a valid weight.");
+// }
