@@ -85,3 +85,17 @@
 // } else {
 //     alert("Invalid input. Please enter a valid weight.");
 // }
+
+// 8. Write a program that stores a random secret number from
+// 1 to 10 in a variable. Ask the user to input a number
+// between 1 and 10. If the user input equals the secret
+// number, congratulate the user.
+
+// let userInput = prompt("Enter number between 1 to 10")
+// let no = 6
+// console.log(no)
+// if( userInput = no ){
+//     alert("your input matched with secret number")
+// }else{
+//     alert("Try again")
+// }
